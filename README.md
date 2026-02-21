@@ -118,3 +118,15 @@ Each stakeholder group was analysed based on impact, influence, and system usage
 - Stakeholder engagement
 - Structured documentation
 - Scalable solution planning
+
+## Delivery Approach
+
+The solution was structured using a phased roadmap approach:
+
+- Discovery & Stakeholder Engagement
+- Requirements Definition
+- Process Redesign
+- Risk & Governance Planning
+- Implementation Roadmap
+
+Agile delivery principles were considered for phased rollout and iterative improvement.
